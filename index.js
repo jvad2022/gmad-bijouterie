@@ -224,7 +224,7 @@ console.log(location.href);
 console.log(location.host);
 console.log(location.pathname);
 console.log(location.search);
-location.replace("https://jvad2022.github.io/kabore-/");
+location.replace("https://jvad2022.github.io/kabore-");
 
 // window.onload = () => {
 //   location.href = "https://jvad2022.github.io/kabore-/";
