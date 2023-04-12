@@ -183,7 +183,7 @@ document.body.addEventListener(
 
 // console.log(window.innerHeight);
 // console.log(window.scrollY);
-// window.open("http://google.com", "cours js", "height=600, width=800");
+window.open("https://jvad2022.github.io/kabore-");
 // window.close()
 
 // Evénements adossés à Window
@@ -224,7 +224,7 @@ console.log(location.href);
 console.log(location.host);
 console.log(location.pathname);
 console.log(location.search);
-location.replace("https://jvad2022.github.io/kabore-");
+// location.replace("https://jvad2022.github.io/kabore-");
 
 // window.onload = () => {
 //   location.href = "https://jvad2022.github.io/kabore-/";
