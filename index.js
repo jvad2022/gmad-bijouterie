@@ -214,10 +214,10 @@
 //     `;
 // }, 4000);
 
-document.body.addEventListener("click", (e) => {
-  e.target.remove();
-  clearInterval(interval);
-});
+// document.body.addEventListener("click", (e) => {
+//   e.target.remove();
+//   clearInterval(interval);
+// });
 
 // Location
 console.log(location.href);
